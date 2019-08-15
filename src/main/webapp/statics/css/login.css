@@ -1,0 +1,9 @@
+body {background: #4287c2;font-size: 12px;}
+
+table {margin: auto;margin-top: 20px;}
+
+tr {height: 40px;text-align: center;}
+
+#panel_login{margin: auto;width: 500px;margin-top: 200px;height: 300px;}
+
+#login{width: 500px;height: 180px;}

@@ -1,0 +1,30 @@
+#sdiv {text-align: center;font-size: 16px;font-weight: bold;line-height: 30px;background-color: #4287c2;height: 50px;}
+
+/*修改头部标题样式*/
+/* #n_title {color: white;font-size: 14px;line-height: 90px;float: right;margin-right:80px;} */
+
+/*修改标题超链接样式*/
+/* #n_title a {text-decoration: none;color: white;margin-right:10px;}
+
+#n_title a:hover {color: orange;} */
+
+/*修改密码样式*/
+#div_pwd table {margin: auto;margin-top: 10px;}
+
+#div_pwd table tr {height: 40px;text-align: center;}
+
+#ndiv{height: 80px;background: #4287c2;}
+
+#wdiv{width: 150px;}
+
+#n_logo{margin-left: 50px;line-height: 30px;float: left;}
+
+#n_logo img{width:50px;margin-top: 15px;border-radius: 50%;}
+
+#n_head{color:white;font-size:30px;float: left;line-height: 80px;margin-left:40px;}
+
+#n_user{color:white;font-size:20px;float: left;line-height: 80px;margin-left:40px;}
+
+#exit{float: right;margin:20px 100px 20px 0;font-size:20px;}
+
+#div_pwd{width: 400px; height: 250px;}
