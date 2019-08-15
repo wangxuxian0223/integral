@@ -26,6 +26,7 @@ public class CardlevelsController {
 		List<Cardlevels> list = new ArrayList<Cardlevels>();
 		list = iCardlevelsService.queryAllCardlevelNameByAjax();
 		return list;
+		
 	}
 	
 	@RequestMapping("queryByPageHelper")
