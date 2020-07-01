@@ -11,7 +11,7 @@
 		<aspectj.version>1.8.7</aspectj.version>
 		<poi.version>3.11</poi.version>
 		<cxf.version>3.0.1</cxf.version>
-		<quartz.version>2.2.3</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 
 		<pinyin.version>2.5.0</pinyin.version>
 		<json-lib.version>2.4</json-lib.version>
@@ -335,12 +335,12 @@
 		<dependency>
 			<groupId>org.quartz-scheduler</groupId>
 			<artifactId>quartz</artifactId>
-			<version>2.2.3</version>
+			<version>2.3.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.quartz-scheduler</groupId>
 			<artifactId>quartz-jobs</artifactId>
-			<version>2.2.3</version>
+			<version>2.3.2</version>
 		</dependency>
 		<!-- 引入JavaMail的依赖 -->
 		<dependency>
