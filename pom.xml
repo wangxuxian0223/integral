@@ -16,7 +16,7 @@
 		<pinyin.version>2.5.0</pinyin.version>
 		<json-lib.version>2.4</json-lib.version>
 
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<spring.version>4.2.4.RELEASE</spring.version>
 		<spring.security.version>4.2.3.RELEASE</spring.security.version>
 		<mybatis.version>3.2.8</mybatis.version>
@@ -352,7 +352,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8</version>
+			<version>4.13.1</version>
 		</dependency>
 
 		<!--配置mybatis-generator依赖包 -->
